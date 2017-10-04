@@ -1,0 +1,14 @@
+/* Optional theme */
+@import url('https://bootswatch.com/slate/bootstrap.min.css');
+
+
+div {
+    background: white;
+    border: 3px solid #77B8C4;
+    padding: px;
+    margin: px;
+}
+
+body {
+    color: #176161;
+}
